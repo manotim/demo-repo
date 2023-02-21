@@ -6,4 +6,4 @@ My first git experience!.
 
 ## Local Foundation
 
-1. Set up your startup to register with us.
+1.Set up your startup to register with us.
